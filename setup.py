@@ -31,7 +31,7 @@ setup(
   author = 'martintang',                   # Type in your name
   author_email = 'martintang@tencent.com',      # Type in your E-Mail
   url = 'https://github.com/tangbogreat/MyLib/',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/tangbogreat/MyLib/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/tangbogreat/MyLib/archive/v1.0.tar.gz',    # I explain this later on
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
